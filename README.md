@@ -34,3 +34,9 @@
 <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" width="16pt" />.
 
 #### My dotfiles can be found [here](https://github.com/ethanolx/.files). Neovim is cool, btw. <img src="https://cdn-icons-png.flaticon.com/512/569/569586.png" width="16pt" />
+
+#### GitHub
+[here](https://github.com/ethanolx)
+
+#### GitLab
+[here](https://gitlab.com/ethanolx)
