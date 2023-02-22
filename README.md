@@ -4,7 +4,8 @@
 
 #### I enjoy
 - Mathematics:
-<img src="https://cdn-icons-png.flaticon.com/512/2106/2106578.png" width="16pt" />.
+<img src="https://cdn-icons-png.flaticon.com/512/2106/2106578.png" width="16pt" />,
+<img src="https://cdn-icons-png.flaticon.com/512/4872/4872235.png" width="16pt" />.
 
 - Sports:
 <img src="https://cdn-icons-png.flaticon.com/512/1099/1099794.png" width="16pt" />,
@@ -12,10 +13,12 @@
 <img src="https://cdn-icons-png.flaticon.com/512/2633/2633871.png" width="16pt" />,
 <img src="https://cdn-icons-png.flaticon.com/512/4363/4363824.png" width="16pt" />,
 <img src="https://cdn-icons-png.flaticon.com/512/802/802340.png" width="16pt" />,
-<img src="https://cdn-icons-png.flaticon.com/512/1087/1087299.png" width="16pt" />.
+<img src="https://cdn-icons-png.flaticon.com/512/1087/1087299.png" width="16pt" />,
+<img src="https://cdn-icons-png.flaticon.com/512/3655/3655055.png" width="16pt" />.
 
 - Music:
-<img src="https://cdn-icons-png.flaticon.com/512/2318/2318237.png" width="16pt" />.
+<img src="https://cdn-icons-png.flaticon.com/512/2318/2318237.png" width="16pt" />,
+<img src="https://cdn-icons-png.flaticon.com/512/3656/3656968.png" width="16pt" />.
 
 - Coding: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16pt" />,
