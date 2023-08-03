@@ -36,6 +36,8 @@
 
 #### My dotfiles can be found [here](https://github.com/ethanolx/.files). Neovim is cool, btw. <img src="https://cdn-icons-png.flaticon.com/512/569/569586.png" width="16pt" />
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ethanolx&theme=onedark&layout=compact&hide=jupyter%20notebook,purebasic,scilab,html,css,roff,tsql,shell&langs_count=10)
+
 #### [GitHub](https://github.com/ethanolx)
 
 #### [GitLab](https://gitlab.com/ethanolx)
